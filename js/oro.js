@@ -1,1 +1,5 @@
-alert("Hola Perro");
+
+function saludar(){
+    alert("Hola Perro");
+}
+
